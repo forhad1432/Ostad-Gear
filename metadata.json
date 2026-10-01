@@ -1,0 +1,6 @@
+{
+  "name": "ThreadCraft BD - Premium Streetwear & Jersey Store",
+  "description": "Premium apparel e-commerce store featuring T-Shirts, Drop-Shoulder Tees, Sports Jerseys, and Hoodies with bKash/Nagad/Rocket checkout and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

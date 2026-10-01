@@ -1,0 +1,591 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-01T17:22:08.619Z",
+  "products": [
+    {
+      "id": "prod-ds-1",
+      "title": "Cyberpunk Tokyo Oversized Drop Shoulder Tee",
+      "titleBn": "সাইবারপাঙ্ক টোকিও ওভারসাইজড ড্রপ শোল্ডার",
+      "category": "dropshoulder",
+      "price": 650,
+      "originalPrice": 850,
+      "stock": 42,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Pitch Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Smoke Grey",
+          "hex": "#4A4A4A"
+        },
+        {
+          "name": "Off White",
+          "hex": "#F4F4F0"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=900&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Premium drop shoulder t-shirt crafted with high-density 220 GSM combed compact cotton. Features high-grade Japanese streetwear screenprint with silicon soft-feel finish.",
+      "fabricDetails": {
+        "gsm": 220,
+        "composition": "100% Combed Compact Cotton",
+        "fit": "Relaxed Drop Shoulder Oversized Fit",
+        "care": "Machine wash cold with like colors, do not iron directly on print."
+      },
+      "rating": 4.9,
+      "reviewsCount": 128,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "createdAt": "2026-02-10T12:00:00Z"
+    },
+    {
+      "id": "prod-ds-2",
+      "title": "Vintage Acid Wash Heavyweight Drop Shoulder",
+      "titleBn": "ভিন্টেজ এসিড ওয়াশ হেভিওয়েট ড্রপ শোল্ডার",
+      "category": "dropshoulder",
+      "price": 690,
+      "originalPrice": 920,
+      "stock": 27,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Charcoal Wash",
+          "hex": "#2C2E33"
+        },
+        {
+          "name": "Washed Olive",
+          "hex": "#4D5447"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Enzyme stone acid-washed streetwear drop shoulder tee. Uniquely dyed with subtle vintage distressing along the ribbed collar and hemline.",
+      "fabricDetails": {
+        "gsm": 230,
+        "composition": "100% Organic Heavyweight Cotton",
+        "fit": "Boxy Drop Shoulder",
+        "care": "Cold wash inside out. Tumble dry low."
+      },
+      "rating": 4.8,
+      "reviewsCount": 94,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "createdAt": "2026-02-12T10:00:00Z"
+    },
+    {
+      "id": "prod-jr-1",
+      "title": "Retro Madrid Gold Special Edition Fan Jersey",
+      "titleBn": "মাদ্রিদ রেট্রো গোল্ড স্পেশাল ফ্যান জার্সি",
+      "category": "jersey",
+      "price": 790,
+      "originalPrice": 1100,
+      "stock": 50,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Pure White & Gold",
+          "hex": "#F8F9FA"
+        },
+        {
+          "name": "Royal Navy",
+          "hex": "#0B1B3D"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1577210897949-1f56f9435824?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Master copy fan version football jersey. High performance micro-mesh dry-fit polyester fabric engineered with heat-transferred club crest and silicone branding.",
+      "fabricDetails": {
+        "gsm": 170,
+        "composition": "100% Recycled Dry-Fit Polyester Mesh",
+        "fit": "Regular Athletic Fit",
+        "care": "Hand wash recommended or gentle machine cycle in mesh bag."
+      },
+      "rating": 4.9,
+      "reviewsCount": 215,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "createdAt": "2026-01-20T14:30:00Z"
+    },
+    {
+      "id": "prod-jr-2",
+      "title": "Bangladesh Tigers Official Cricket Supporters Jersey",
+      "titleBn": "বাংলাদেশ টাইগার্স অফিশিয়াল ক্রিকেট জার্সি",
+      "category": "jersey",
+      "price": 750,
+      "originalPrice": 990,
+      "stock": 60,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Bengal Green",
+          "hex": "#006A4E"
+        },
+        {
+          "name": "Crimson Red",
+          "hex": "#F42A41"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Sublimated moisture-wicking cricket supporters jersey featuring iconic tiger skin micro-textures and embroidered chest crest.",
+      "fabricDetails": {
+        "gsm": 175,
+        "composition": "Supercool Aero-Vent Polyester",
+        "fit": "Sports Fit",
+        "care": "Wash cold, avoid fabric softeners, quick dry."
+      },
+      "rating": 5,
+      "reviewsCount": 340,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "createdAt": "2026-02-01T09:00:00Z"
+    },
+    {
+      "id": "prod-hd-1",
+      "title": "Nocturnal Black Heavyweight Kangaroo Hoodie",
+      "titleBn": "নকটার্নাল ব্ল্যাক হেভিওয়েট ক্যাঙ্গারু হুডি",
+      "category": "hoodie",
+      "price": 1350,
+      "originalPrice": 1750,
+      "stock": 35,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "hex": "#0D0E12"
+        },
+        {
+          "name": "Dark Heather",
+          "hex": "#2B2C30"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Ultimate winter staple. Heavy 320 GSM French Terry brushed fleece interior with double-lined drawstring hood and reinforced metal aglets.",
+      "fabricDetails": {
+        "gsm": 320,
+        "composition": "80% Combed Cotton, 20% Anti-Pilling Polyester Fleece",
+        "fit": "Oversized Street Fit",
+        "care": "Gentle machine wash cold. Do not bleach or tumble hot."
+      },
+      "rating": 4.9,
+      "reviewsCount": 168,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "createdAt": "2026-01-15T11:00:00Z"
+    },
+    {
+      "id": "prod-hd-2",
+      "title": "Earth Tone Clay Minimalist Pullover Hoodie",
+      "titleBn": "আর্থ টোন ক্লে মিনিমালিস্ট পুলওভার হুডি",
+      "category": "hoodie",
+      "price": 1290,
+      "originalPrice": 1650,
+      "stock": 22,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Sand Khaki",
+          "hex": "#C2B29A"
+        },
+        {
+          "name": "Mocha Brown",
+          "hex": "#584338"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Cozy pastel earth-toned hoodie for effortless everyday layering. Features ribbed spandex cuffs and seamless kangaroo pocket pouch.",
+      "fabricDetails": {
+        "gsm": 300,
+        "composition": "Cotton-Rich Terry Fleece",
+        "fit": "Comfort Regular Fit",
+        "care": "Machine wash warm, tumble dry gentle."
+      },
+      "rating": 4.7,
+      "reviewsCount": 82,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "createdAt": "2026-01-28T15:00:00Z"
+    },
+    {
+      "id": "prod-ts-1",
+      "title": "Minimalist Signature Organic Cotton Crewneck Tee",
+      "titleBn": "মিনিমালিস্ট সিগনেচার অর্গানিক কটন টি-শার্ট",
+      "category": "tshirt",
+      "price": 490,
+      "originalPrice": 650,
+      "stock": 80,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Midnight Navy",
+          "hex": "#1B263B"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "#2D4A3E"
+        },
+        {
+          "name": "Classic Black",
+          "hex": "#121212"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Everyday essential round-neck t-shirt. Bio-washed for ultra-soft hand feel, zero shrinkage guarantee, and vibrant color-lock longevity.",
+      "fabricDetails": {
+        "gsm": 180,
+        "composition": "100% Combed Compact Cotton",
+        "fit": "Regular Fit",
+        "care": "Normal machine wash with mild detergent."
+      },
+      "rating": 4.8,
+      "reviewsCount": 195,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "createdAt": "2026-02-05T08:30:00Z"
+    },
+    {
+      "id": "prod-ts-2",
+      "title": "Typography Dhaka Aesthetic Graphic T-Shirt",
+      "titleBn": "টাইপোগ্রাফি ঢাকা নান্দনিক গ্রাফিক টি-শার্ট",
+      "category": "tshirt",
+      "price": 520,
+      "originalPrice": 700,
+      "stock": 40,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bone White",
+          "hex": "#EAE6DF"
+        },
+        {
+          "name": "Washed Black",
+          "hex": "#222326"
+        }
+      ],
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=900&auto=format&fit=crop&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=900&auto=format&fit=crop&q=80"
+      ],
+      "description": "Modern artistic typography celebrating old and new Dhaka street culture. Printed with breathable eco-friendly water-based discharge ink.",
+      "fabricDetails": {
+        "gsm": 185,
+        "composition": "100% Ring-Spun Cotton",
+        "fit": "Standard Regular Fit",
+        "care": "Wash inside-out, do not bleach."
+      },
+      "rating": 4.9,
+      "reviewsCount": 110,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "createdAt": "2026-02-18T10:15:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "customerName": "লাইভ টেস্ট কাস্টমার",
+      "phone": "01799887766",
+      "address": "উত্তরা সেক্টর ৩, রোড ৪",
+      "district": "Dhaka",
+      "thanaCity": "Uttara",
+      "deliveryZone": "inside_dhaka",
+      "paymentMethod": "cod",
+      "subtotal": 690,
+      "total": 750,
+      "items": [
+        {
+          "productId": "prod-ds-2",
+          "title": "Vintage Acid Wash Heavyweight Drop Shoulder",
+          "size": "XL",
+          "price": 690,
+          "quantity": 1
+        }
+      ],
+      "id": "ord-1790875328619-422",
+      "orderNumber": "OG-BD-9334",
+      "orderDate": "2026-10-01T17:22:08.619Z",
+      "status": "pending",
+      "deliveryFee": 60,
+      "discount": 0
+    },
+    {
+      "customerName": "অন্য ডিভাইস ইউজার টেস্ট",
+      "phone": "01812345678",
+      "address": "মিরপুর ডিওএইচএস",
+      "district": "Dhaka",
+      "thanaCity": "Mirpur",
+      "deliveryZone": "inside_dhaka",
+      "paymentMethod": "cod",
+      "subtotal": 650,
+      "total": 710,
+      "items": [
+        {
+          "productId": "prod-ds-1",
+          "title": "Cyberpunk Drop Shoulder",
+          "size": "L",
+          "price": 650,
+          "quantity": 1
+        }
+      ],
+      "id": "ord-1790681883992-657",
+      "orderNumber": "OG-BD-7243",
+      "orderDate": "2026-09-29T11:38:03.992Z",
+      "status": "pending",
+      "deliveryFee": 60,
+      "discount": 0
+    },
+    {
+      "customerName": "মোবাইল টেস্ট ইউজার",
+      "phone": "01988776655",
+      "address": "ধানমন্ডি ২৭",
+      "district": "Dhaka",
+      "thanaCity": "Dhanmondi",
+      "deliveryZone": "inside_dhaka",
+      "paymentMethod": "cod",
+      "subtotal": 650,
+      "total": 710,
+      "items": [
+        {
+          "productId": "prod-ds-1",
+          "title": "Cyberpunk Drop Shoulder",
+          "size": "XL",
+          "price": 650,
+          "quantity": 1
+        }
+      ],
+      "id": "ord-1790678774801-487",
+      "orderNumber": "OG-BD-3748",
+      "orderDate": "2026-09-29T10:46:14.801Z",
+      "status": "pending",
+      "deliveryFee": 60,
+      "discount": 0
+    },
+    {
+      "orderNumber": "OG-BD-7712",
+      "customerName": "রাকিবুল হাসান",
+      "phone": "01812345678",
+      "district": "Dhaka",
+      "thanaCity": "উত্তরা",
+      "address": "সেক্টর ৭, রোড ৩",
+      "deliveryZone": "inside_dhaka",
+      "deliveryFee": 60,
+      "paymentMethod": "cod",
+      "items": [
+        {
+          "productId": "prod-ds-1",
+          "title": "Cyberpunk Tokyo Oversized Drop Shoulder Tee",
+          "category": "dropshoulder",
+          "size": "XL",
+          "price": 650,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 650,
+      "discount": 0,
+      "total": 710,
+      "status": "confirmed",
+      "id": "ord-1790675564509-912",
+      "orderDate": "2026-09-29T09:52:44.509Z"
+    },
+    {
+      "id": "ord-demo-1",
+      "orderNumber": "OG-BD-1042",
+      "customerName": "তানভীর আহমেদ",
+      "phone": "01711223344",
+      "district": "Dhaka",
+      "thanaCity": "মিরপুর-১০",
+      "address": "বাড়ি #১২, রোড #০৫, ব্লক-সি",
+      "deliveryZone": "inside_dhaka",
+      "deliveryFee": 60,
+      "paymentMethod": "bkash",
+      "paymentNumber": "01711223344",
+      "trxId": "BK9X82LA0P",
+      "items": [
+        {
+          "productId": "prod-ds-1",
+          "title": "Cyberpunk Tokyo Oversized Drop Shoulder Tee",
+          "category": "dropshoulder",
+          "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=900&auto=format&fit=crop&q=80",
+          "size": "L",
+          "price": 650,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 650,
+      "discount": 0,
+      "total": 710,
+      "status": "delivered",
+      "orderDate": "2026-02-24T14:20:00Z",
+      "deliveryCourier": "Pathao Courier",
+      "trackingCode": "PTH-9021"
+    },
+    {
+      "id": "ord-demo-2",
+      "orderNumber": "OG-BD-1043",
+      "customerName": "মেহেদী জামান",
+      "phone": "01899887766",
+      "district": "Chattogram",
+      "thanaCity": "জিইসি মোড়",
+      "address": "হোল্ডিং ৪৫, নাসিরাবাদ হাউজিং",
+      "deliveryZone": "outside_dhaka",
+      "deliveryFee": 120,
+      "paymentMethod": "cod",
+      "items": [
+        {
+          "productId": "prod-jr-1",
+          "title": "Retro Madrid Gold Special Edition Fan Jersey",
+          "category": "jersey",
+          "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&auto=format&fit=crop&q=80",
+          "size": "XL",
+          "price": 790,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 790,
+      "discount": 0,
+      "total": 910,
+      "status": "confirmed",
+      "orderDate": "2026-02-25T11:00:00Z",
+      "deliveryCourier": "Steadfast Courier",
+      "trackingCode": "STF-4392"
+    }
+  ],
+  "settings": {
+    "insideDhakaFee": 60,
+    "outsideDhakaFee": 120,
+    "bkashNumber": "01859-994321",
+    "nagadNumber": "01712-445566",
+    "rocketNumber": "01911-332211",
+    "bannerText": "🔥 DHAKA URBAN STREETWEAR DROP '26 - LIMITED STOCK AVAILABLE",
+    "activePromoCode": "OSTAD10",
+    "activePromoDiscount": 10
+  },
+  "logs": [
+    {
+      "id": "log-1790875328619-6aub4",
+      "timestamp": "2026-10-01T17:22:08.619Z",
+      "action": "ORDER_PLACED",
+      "details": "New order #OG-BD-9334 placed by লাইভ টেস্ট কাস্টমার (Total: ৳750)"
+    },
+    {
+      "id": "log-1790681883992-40arx",
+      "timestamp": "2026-09-29T11:38:03.992Z",
+      "action": "ORDER_PLACED",
+      "details": "New order #OG-BD-7243 placed by অন্য ডিভাইস ইউজার টেস্ট (Total: ৳710)"
+    },
+    {
+      "id": "log-1790678774801-5inql",
+      "timestamp": "2026-09-29T10:46:14.801Z",
+      "action": "ORDER_PLACED",
+      "details": "New order #OG-BD-3748 placed by মোবাইল টেস্ট ইউজার (Total: ৳710)"
+    },
+    {
+      "id": "log-1790677483091-lb5n6",
+      "timestamp": "2026-09-29T10:24:43.091Z",
+      "action": "ORDER_STATUS_UPDATED",
+      "details": "Order #OG-BD-1043 status changed to confirmed"
+    },
+    {
+      "id": "log-1790677479977-ip3nf",
+      "timestamp": "2026-09-29T10:24:39.977Z",
+      "action": "ORDER_STATUS_UPDATED",
+      "details": "Order #OG-BD-7712 status changed to confirmed"
+    },
+    {
+      "id": "log-1790677474631-wf79r",
+      "timestamp": "2026-09-29T10:24:34.631Z",
+      "action": "ORDER_DELETED",
+      "details": "Deleted order with ID: OG-BD-9999"
+    },
+    {
+      "id": "log-1790677467499-tn60m",
+      "timestamp": "2026-09-29T10:24:27.499Z",
+      "action": "ORDER_STATUS_UPDATED",
+      "details": "Order #OG-BD-9999 status changed to confirmed"
+    },
+    {
+      "id": "log-1790677238144-wr6gc",
+      "timestamp": "2026-09-29T10:20:38.144Z",
+      "action": "ORDER_STATUS_UPDATED",
+      "details": "Order #OG-BD-1042 status changed to delivered"
+    },
+    {
+      "id": "log-1790675564510-mz6e2",
+      "timestamp": "2026-09-29T09:52:44.510Z",
+      "action": "ORDER_PLACED",
+      "details": "New order #OG-BD-7712 placed by রাকিবুল হাসান (Total: ৳710)"
+    },
+    {
+      "id": "log-1790675280363-vnl12",
+      "timestamp": "2026-09-29T09:48:00.363Z",
+      "action": "ORDER_PLACED",
+      "details": "New order #OG-BD-9999 placed by Test User (Total: ৳560)"
+    },
+    {
+      "id": "log-init",
+      "timestamp": "2026-09-29T08:41:12.484Z",
+      "action": "DATABASE_INITIALIZED",
+      "details": "Initial seed with 8 products and 2 orders."
+    }
+  ]
+}

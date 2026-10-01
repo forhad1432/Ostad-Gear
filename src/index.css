@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  h1, h2, h3, .font-display {
+    font-family: 'Syne', 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+.font-streetwear {
+  font-family: 'Bebas Neue', 'Outfit', sans-serif;
+  letter-spacing: 0.03em;
+}
+
+/* Simple yet Gorgeous Brand Typography */
+.font-brand {
+  font-family: 'Montserrat', 'Outfit', sans-serif;
+  letter-spacing: 0.12em;
+}
+
+/* Custom scrollbar for sleek aesthetic */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #111318;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2e39;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f4657;
+}
